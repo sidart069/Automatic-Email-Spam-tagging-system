@@ -7,7 +7,7 @@
 
 
 ## Sample Output
-![Architecture](Screen Shot 2021-12-17 at 11.52.57 PM.png)
+![Architecture](Architecture/Screen Shot 2021-12-17 at 11.52.57 PM.png)
 
 In this project we have Implemented a machine learning model to predict whether a message is spam or not. Furthermore, we have created a system that upon receipt of an email message, it will automatically flag it as spam or not, based on the prediction obtained from the machine learning model.
 
