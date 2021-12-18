@@ -1,6 +1,5 @@
 # Automatic-Email-Spam-tagging-system
 
-## S3 Bucket link of the project :
 
 ## Architecture diagram
 ![Architecture](Architecture/Picture.png)
